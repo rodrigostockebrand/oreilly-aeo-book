@@ -8,6 +8,7 @@ Code samples, figures, and reference assets for Chapter 5 of *Answer Engine Opti
 |---|---|---|
 | [`images/figure-5-7-executive-aeo-dashboard.png`](images/figure-5-7-executive-aeo-dashboard.png) | Figure 5.7 | Executive AEO Dashboard — four-quadrant view of Share of Voice (12-month trend), AI-Attributed Revenue by quarter, Competitive Share of Voice, and Top 5 Citation Gap Opportunities |
 | [`images/figure-5-8-ai-visibility-index-report.png`](images/figure-5-8-ai-visibility-index-report.png) | Figure 5.8 | AI Visibility Index — Monthly Report template: composite AVI score, per-platform breakdown (ChatGPT, Perplexity, Gemini, Claude), 6-month trend, competitive comparison, and top citation gap opportunities |
+| [`images/figure-5-9-rag-pipeline-funnel.jpg`](images/figure-5-9-rag-pipeline-funnel.jpg) | Figure 5.9 | The RAG Pipeline: Where Content Drops Out — four-stage funnel (Indexing, Retrieval, Ranking/Filtering, Generation) with drop-off rates, diagnostic questions, and AEO Readiness Pillar linkages |
 
 ## Preview
 
@@ -15,6 +16,8 @@ Code samples, figures, and reference assets for Chapter 5 of *Answer Engine Opti
 
 ![Figure 5.8 — AI Visibility Index Monthly Report](images/figure-5-8-ai-visibility-index-report.png)
 
+![Figure 5.9 — The RAG Pipeline](images/figure-5-9-rag-pipeline-funnel.jpg)
+
 ## Notes
 
-The figure labels baked into the source artwork read "Figure 5-8" and "Figure 5-9" — these are labeling errors in the original images. The correct in-book references are **Figure 5.7** and **Figure 5.8** respectively.
+The figure labels baked into the source artwork read "Figure 5-8", "Figure 5-9", and "Figure 5-10" — these are labeling errors in the original images. The correct in-book references are **Figure 5.7**, **Figure 5.8**, and **Figure 5.9** respectively.
