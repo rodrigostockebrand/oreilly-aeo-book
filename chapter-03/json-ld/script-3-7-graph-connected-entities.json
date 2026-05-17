@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://example.com/guides/aeo-basics#webpage",
+      "url": "https://example.com/guides/aeo-basics",
+      "name": "AEO Basics Guide",
+      "isPartOf": {
+        "@id": "https://example.com/#website"
+      },
+      "datePublished": "2026-01-15",
+      "dateModified": "2026-02-01"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://example.com/guides/aeo-basics#article",
+      "isPartOf": {
+        "@id": "https://example.com/guides/aeo-basics#webpage"
+      },
+      "headline": "The Complete Guide to Answer Engine Optimization",
+      "author": {
+        "@id": "https://example.com/authors/rod-martinez#person"
+      },
+      "publisher": {
+        "@id": "https://example.com/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://example.com/authors/rod-martinez#person",
+      "name": "Rod Martinez",
+      "url": "https://example.com/authors/rod-martinez",
+      "sameAs": ["https://linkedin.com/in/rodmartinez"],
+      "knowsAbout": ["SEO", "AEO", "Digital Marketing"]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://example.com/#organization",
+      "name": "Example Media",
+      "url": "https://example.com",
+      "logo": {
+        "@id": "https://example.com/#logo"
+      }
+    }
+  ]
+}
