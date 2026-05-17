@@ -18,6 +18,7 @@ Code samples referenced in Chapter 3 of *Answer Engine Optimization* (O'Reilly).
 | [`json-ld/script-3-8-article-faqpage-hybrid.json`](json-ld/script-3-8-article-faqpage-hybrid.json) | Script 3.8 | JSON-LD hybrid `Article` + `FAQPage` with embedded `Question`/`Answer` pair — dual-typing pattern for retrievable Q&A within an article |
 | [`json-ld/script-3-9-howto-robots-txt.json`](json-ld/script-3-9-howto-robots-txt.json) | Script 3.9 | JSON-LD `HowTo` schema with four `HowToStep` items — structures a robots.txt setup tutorial into discrete, retrievable steps for RAG systems |
 | [`xml/script-3-10-sitemap-index.xml`](xml/script-3-10-sitemap-index.xml) | Script 3.10 | XML `sitemapindex` referencing two child sitemaps (articles, guides) with `lastmod` freshness signals |
+| [`python/script-3-11-indexnow-notify.py`](python/script-3-11-indexnow-notify.py) | Script 3.11 | Python IndexNow notifier — POSTs updated URLs to IndexNow so Bing, Yandex, and partner engines re-crawl quickly |
 
 ## Running
 
