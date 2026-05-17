@@ -23,6 +23,7 @@ chapter-NN/
 | Chapter | Title | Folder |
 |---|---|---|
 | 3 | _(TBD)_ | [`chapter-03/`](chapter-03/) |
+| 5 | _(TBD)_ | [`chapter-05/`](chapter-05/) |
 
 ## Running the Python examples
 
