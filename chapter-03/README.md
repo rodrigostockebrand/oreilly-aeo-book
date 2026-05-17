@@ -10,6 +10,7 @@ Code samples referenced in Chapter 3 of *Answer Engine Optimization* (O'Reilly).
 | [`data/script-3-1-sample-output.txt`](data/script-3-1-sample-output.txt) | Example output for Script 3.1 | Sample of the report Script 3.1 prints when run against a real access log |
 | [`robots/script-3-2-citation-first-robots.txt`](robots/script-3-2-citation-first-robots.txt) | Script 3.2 | Citation-First `robots.txt` — allows real-time retrieval bots and traditional search engines, blocks training-only crawlers |
 | [`nginx/script-3-3-llm-bot-rate-limit.conf`](nginx/script-3-3-llm-bot-rate-limit.conf) | Script 3.3 | Nginx rate-limit config — throttles training-only bots, gives real-time retrieval bots generous limits |
+| [`tables/schema-types-aeo-impact.md`](tables/schema-types-aeo-impact.md) | Reference table | Schema types and their AEO impact — full version of the abbreviated table in the chapter |
 
 ## Running
 
