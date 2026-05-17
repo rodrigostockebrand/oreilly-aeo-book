@@ -13,6 +13,7 @@ Code samples referenced in Chapter 3 of *Answer Engine Optimization* (O'Reilly).
 | [`tables/schema-types-aeo-impact.md`](tables/schema-types-aeo-impact.md) | Reference table | Schema types and their AEO impact — full version of the abbreviated table in the chapter |
 | [`json-ld/script-3-4-organization.json`](json-ld/script-3-4-organization.json) | Script 3.4 | JSON-LD `Organization` schema example with `sameAs` entity-linking to Wikipedia, Wikidata, and social profiles |
 | [`json-ld/script-3-5-article.json`](json-ld/script-3-5-article.json) | Script 3.5 | JSON-LD `Article` schema with embedded `Person` (author) and `Organization` (publisher), including `knowsAbout` expertise signals |
+| [`json-ld/script-3-6-breadcrumblist.json`](json-ld/script-3-6-breadcrumblist.json) | Script 3.6 | JSON-LD `BreadcrumbList` schema — signals topical hierarchy across Home → Guides → Article |
 
 ## Running
 
