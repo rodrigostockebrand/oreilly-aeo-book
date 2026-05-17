@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Building AI Visibility with Schema Markup",
+  "author": {
+    "@type": "Person",
+    "name": "Jordan Patel",
+    "url": "https://www.answerenginemedia.com/authors/jordan-patel",
+    "sameAs": [
+      "https://linkedin.com/in/jordanpatel",
+      "https://twitter.com/jordanpatelseo"
+    ],
+    "jobTitle": "Search Strategist",
+    "knowsAbout": ["SEO", "Answer Engine Optimization", "Structured Data"]
+  },
+  "datePublished": "2026-01-15T08:00:00+00:00",
+  "dateModified": "2026-02-10T10:30:00+00:00",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Answer Engine Media",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.answerenginemedia.com/logo.png"
+    }
+  },
+  "description": "A step-by-step guide for using Article and Person schema to strengthen AI visibility."
+}
