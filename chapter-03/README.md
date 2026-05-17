@@ -16,6 +16,7 @@ Code samples referenced in Chapter 3 of *Answer Engine Optimization* (O'Reilly).
 | [`json-ld/script-3-6-breadcrumblist.json`](json-ld/script-3-6-breadcrumblist.json) | Script 3.6 | JSON-LD `BreadcrumbList` schema — signals topical hierarchy across Home → Guides → Article |
 | [`json-ld/script-3-7-graph-connected-entities.json`](json-ld/script-3-7-graph-connected-entities.json) | Script 3.7 | JSON-LD `@graph` connecting `WebPage`, `Article`, `Person`, and `Organization` via `@id` references — the entity-linking pattern AI retrieval systems use to build knowledge graphs |
 | [`json-ld/script-3-8-article-faqpage-hybrid.json`](json-ld/script-3-8-article-faqpage-hybrid.json) | Script 3.8 | JSON-LD hybrid `Article` + `FAQPage` with embedded `Question`/`Answer` pair — dual-typing pattern for retrievable Q&A within an article |
+| [`json-ld/script-3-9-howto-robots-txt.json`](json-ld/script-3-9-howto-robots-txt.json) | Script 3.9 | JSON-LD `HowTo` schema with four `HowToStep` items — structures a robots.txt setup tutorial into discrete, retrievable steps for RAG systems |
 
 ## Running
 

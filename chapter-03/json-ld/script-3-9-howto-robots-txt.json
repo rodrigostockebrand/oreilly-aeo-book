@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Set Up robots.txt for LLM Crawlers",
+  "description": "A step-by-step guide to configuring your robots.txt file to manage access from AI training and retrieval bots.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Identify Active LLM Bots",
+      "text": "Review your server logs to identify which LLM bots are currently crawling your site."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Categorize by Purpose",
+      "text": "Separate the bots into training bots (GPTBot, ClaudeBot, Bytespider) and real-time retrieval bots (ChatGPT-User, PerplexityBot, OAI-SearchBot)."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Configure Access Rules",
+      "text": "Add User-agent directives and Allow/Disallow rules for each bot category based on your chosen access strategy."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Test and Validate",
+      "text": "Use Google's Rich Results Test or Schema.org's validator to confirm your markup parses correctly, then monitor server logs for compliance."
+    }
+  ]
+}
