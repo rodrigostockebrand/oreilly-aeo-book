@@ -22,7 +22,7 @@ chapter-NN/
 
 | Chapter | Title | Folder |
 |---|---|---|
-| _(populated as content is added)_ | | |
+| 3 | _(TBD)_ | [`chapter-03/`](chapter-03/) |
 
 ## Running the Python examples
 
