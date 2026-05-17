@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["Article", "FAQPage"],
+  "headline": "Understanding LLM Crawlers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GPTBot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GPTBot is OpenAI's web crawler that collects training data for their language models. It is separate from ChatGPT-User, which handles real-time browsing."
+      }
+    }
+  ]
+}
