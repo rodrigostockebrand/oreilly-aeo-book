@@ -1,0 +1,43 @@
+# Script 3.2 — Citation-First robots.txt configuration
+# Companion code for "Answer Engine Optimization" (O'Reilly) — Chapter 3
+#
+# This robots.txt blocks training-only crawlers while allowing
+# real-time retrieval bots (the ones that produce cited answers
+# in ChatGPT, Perplexity, Claude, etc.) and traditional search
+# engines. Drop this at the root of your site as /robots.txt.
+
+# Allow real-time retrieval bots (these generate citations)
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Block training-only bots
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+# Continue allowing traditional search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
