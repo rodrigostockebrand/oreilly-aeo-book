@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Media - SEO and AEO Insights</title>
+    <link>https://example.com</link>
+    <description>Expert analysis on search optimization and answer engine strategies.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2026 12:30:00 GMT</lastBuildDate>
+    <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Complete Guide to Answer Engine Optimization in 2026</title>
+      <link>https://example.com/guides/aeo-2026</link>
+      <description>A comprehensive guide to optimizing your content for AI-powered answer engines.</description>
+      <pubDate>Wed, 15 Jan 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/guides/aeo-2026</guid>
+      <category>Answer Engine Optimization</category>
+    </item>
+  </channel>
+</rss>

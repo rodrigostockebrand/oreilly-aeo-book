@@ -19,6 +19,7 @@ Code samples referenced in Chapter 3 of *Answer Engine Optimization* (O'Reilly).
 | [`json-ld/script-3-9-howto-robots-txt.json`](json-ld/script-3-9-howto-robots-txt.json) | Script 3.9 | JSON-LD `HowTo` schema with four `HowToStep` items — structures a robots.txt setup tutorial into discrete, retrievable steps for RAG systems |
 | [`xml/script-3-10-sitemap-index.xml`](xml/script-3-10-sitemap-index.xml) | Script 3.10 | XML `sitemapindex` referencing two child sitemaps (articles, guides) with `lastmod` freshness signals |
 | [`python/script-3-11-indexnow-notify.py`](python/script-3-11-indexnow-notify.py) | Script 3.11 | Python IndexNow notifier — POSTs updated URLs to IndexNow so Bing, Yandex, and partner engines re-crawl quickly |
+| [`xml/script-3-12-rss-feed.xml`](xml/script-3-12-rss-feed.xml) | Script 3.12 | RSS 2.0 feed with Atom `self` link and a single item — freshness/discovery signal that AI retrieval systems also poll |
 
 ## Running
 
