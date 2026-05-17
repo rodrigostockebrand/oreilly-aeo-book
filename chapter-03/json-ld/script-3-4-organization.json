@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Answer Engine Media",
+  "url": "https://www.answerenginemedia.com",
+  "logo": "https://www.answerenginemedia.com/logo.png",
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Answer_Engine_Media",
+    "https://www.wikidata.org/wiki/Q123456",
+    "https://www.linkedin.com/company/answerenginemedia",
+    "https://twitter.com/answerenginemedia"
+  ],
+  "foundingDate": "2020",
+  "founder": {
+    "@type": "Person",
+    "name": "Alex Rivera"
+  },
+  "description": "A research and publishing company focused on AI-driven search and content strategy."
+}
