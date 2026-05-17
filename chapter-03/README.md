@@ -21,6 +21,7 @@ Code samples referenced in Chapter 3 of *Answer Engine Optimization* (O'Reilly).
 | [`python/script-3-11-indexnow-notify.py`](python/script-3-11-indexnow-notify.py) | Script 3.11 | Python IndexNow notifier — POSTs updated URLs to IndexNow so Bing, Yandex, and partner engines re-crawl quickly |
 | [`xml/script-3-12-rss-feed.xml`](xml/script-3-12-rss-feed.xml) | Script 3.12 | RSS 2.0 feed with Atom `self` link and a single item — freshness/discovery signal that AI retrieval systems also poll |
 | [`llms-txt/script-3-13-llms.txt`](llms-txt/script-3-13-llms.txt) | Script 3.13 | `llms.txt` example — Markdown-based site overview served at `/llms.txt` to help AI agents discover a site's main resources, documentation, and identity |
+| [`tables/aeo-implementation-checklist.md`](tables/aeo-implementation-checklist.md) | Reference table | AEO implementation checklist — full 32-item action list across Crawler Management, Structured Data, Site Architecture, Indexing, and AI Protocols |
 
 ## Running
 
