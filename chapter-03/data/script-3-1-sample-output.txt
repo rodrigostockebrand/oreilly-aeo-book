@@ -1,0 +1,23 @@
+Sample output from Script 3.1 — LLM Bot Log Analyzer
+Companion code for "Answer Engine Optimization" (O'Reilly) — Chapter 3
+
+==================================================
+OpenAI
+  Total Requests: 18432
+  Unique URLs: 4127
+  Status Codes: {'200': 17891, '301': 312, '404': 198, '503': 31}
+  Peak Crawl Hour: 3:00
+
+==================================================
+Anthropic
+  Total Requests: 6204
+  Unique URLs: 1882
+  Status Codes: {'200': 6011, '301': 145, '404': 48}
+  Peak Crawl Hour: 14:00
+
+==================================================
+Perplexity
+  Total Requests: 2871
+  Unique URLs: 612
+  Status Codes: {'200': 2843, '301': 21, '404': 7}
+  Peak Crawl Hour: 19:00

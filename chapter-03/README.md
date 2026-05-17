@@ -7,6 +7,7 @@ Code samples referenced in Chapter 3 of *Answer Engine Optimization* (O'Reilly).
 | File | Listing # in book | Description |
 |---|---|---|
 | [`python/script-3-1-llm-bot-logs.py`](python/script-3-1-llm-bot-logs.py) | Script 3.1 | Parses Apache/Nginx access logs and reports LLM crawler activity (GPTBot, PerplexityBot, ClaudeBot, etc.) — requests, unique URLs, status codes, peak hour |
+| [`data/script-3-1-sample-output.txt`](data/script-3-1-sample-output.txt) | Example output for Script 3.1 | Sample of the report Script 3.1 prints when run against a real access log |
 
 ## Running
 
